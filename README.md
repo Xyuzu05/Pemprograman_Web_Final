@@ -35,46 +35,46 @@
 
 # Screenshot Hasil
 
-> Semua screenshot disimpan di folder `image/`
+> Semua screenshot disimpan di folder `docs/image/`
 
 ## 1. Detail Transaksi (Tombol Kembalikan)
 Menampilkan halaman detail transaksi peminjaman yang sedang berlangsung, dilengkapi tombol "Kembalikan Buku".
 
-![Detail Transaksi](image/1.png)
+![Detail Transaksi](docs/image/Screenshot%202026-07-06%20203325.png)
 
 ---
 
 ## 2. Detail Transaksi (Bukti Pengembalian & Denda)
 Menampilkan detail transaksi setelah buku dikembalikan, memuat informasi tanggal dikembalikan, lama keterlambatan, dan denda (jika ada).
 
-![Detail Pengembalian dan Denda](image/2.png)
+![Detail Pengembalian dan Denda](docs/image/Screenshot%202026-07-06%20203502.png)
 
 ---
 
 ## 3. Halaman Laporan Transaksi & Filter
 Menampilkan halaman rekap laporan transaksi dengan form filter (tanggal, status, anggota) beserta total transaksi dan total denda.
 
-![Laporan Transaksi](image/3.png)
+![Laporan Transaksi](docs/image/Screenshot%202026-07-06%20203743.png)
 
 ---
 
 ## 4. Hasil Export PDF Laporan
 Menampilkan print preview / hasil Export PDF dari laporan transaksi dengan format yang rapi (tanpa form filter).
 
-![Export PDF Laporan](image/4.png)
+![Export PDF Laporan](docs/image/Screenshot%202026-07-06%20203906.png)
 
 ---
 
 ## 5. Dashboard - Widget Buku Terlambat
 Menampilkan halaman dashboard baru yang memiliki widget khusus berisi daftar buku yang terlambat dikembalikan beserta estimasi dendanya.
 
-![Widget Buku Terlambat Dashboard](image/5.png)
+![Widget Buku Terlambat Dashboard](docs/image/Screenshot%202026-07-06%20203928.png)
 
 ---
 
 ## 6. Index Transaksi - Badge Terlambat
 Menampilkan daftar seluruh transaksi dengan penanda badge merah "Terlambat X hari" untuk buku yang belum dikembalikan melewati batas waktu.
 
-![Badge Terlambat](image/6.png)
+![Badge Terlambat](docs/image/Screenshot%202026-07-06%20203928.png)
 
 ---
