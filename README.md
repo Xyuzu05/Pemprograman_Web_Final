@@ -32,7 +32,7 @@
 
 ## 📖 Deskripsi Project
 
-**Sistem Informasi Perpustakaan** adalah aplikasi web berbasis **Laravel 13** yang dirancang untuk mengelola operasional perpustakaan secara digital. Aplikasi ini mencakup manajemen koleksi buku, data anggota, transaksi peminjaman dan pengembalian, notifikasi keterlambatan, serta pelaporan yang lengkap.
+**Sistem Informasi Perpustakaan** adalah aplikasi web berbasis **Laravel 12** yang dirancang untuk mengelola operasional perpustakaan secara digital. Aplikasi ini mencakup manajemen koleksi buku, data anggota, transaksi peminjaman dan pengembalian, notifikasi keterlambatan, serta pelaporan yang lengkap.
 
 Dibangun dengan antarmuka yang **modern, responsif, dan user-friendly** menggunakan Bootstrap 5.3 dengan desain sistem yang konsisten di seluruh halaman.
 
