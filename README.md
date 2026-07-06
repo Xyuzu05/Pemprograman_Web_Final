@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 13">
+  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12">
   <img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.3">
   <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5.3">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -113,41 +113,6 @@ Dibangun dengan antarmuka yang **modern, responsif, dan user-friendly** mengguna
 - [x] Auto-dismiss flash messages
 - [x] SweetAlert2 untuk konfirmasi tindakan
 
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### 🔐 Halaman Login
-
-<img src="docs/image/Login.png" alt="Halaman Login" width="800" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-### 📊 Dashboard
-
-<img src="docs/image/Dasboard.png" alt="Dashboard" width="800" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-### 📚 Daftar Buku
-
-<img src="docs/image/Buku.png" alt="Daftar Buku" width="800" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-### 👥 Daftar Anggota
-
-<img src="docs/image/Anggota.png" alt="Daftar Anggota" width="800" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-### 🔄 Daftar Transaksi
-
-<img src="docs/image/Transaksi.png" alt="Daftar Transaksi" width="800" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-### 📈 Laporan Transaksi
-
-<img src="docs/image/Laporan.png" alt="Laporan Transaksi" width="800" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-### 👤 Profil Pengguna
-
-<img src="docs/image/Profile.png" alt="Profil Pengguna" width="800" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-</div>
 
 ---
 
@@ -375,11 +340,11 @@ Buat akun pengguna melalui halaman Register, atau gunakan data yang sudah di-see
   <table>
     <tr>
       <td><strong>Nama</strong></td>
-      <td>Naufal Setyabagas Alifian</td>
+      <td>Lukman Shodik</td>
     </tr>
     <tr>
       <td><strong>NIM</strong></td>
-      <td>60324033</td>
+      <td>603240655</td>
     </tr>
     <tr>
       <td><strong>Mata Kuliah</strong></td>
@@ -391,7 +356,7 @@ Buat akun pengguna melalui halaman Register, atau gunakan data yang sudah di-see
     </tr>
     <tr>
       <td><strong>Email</strong></td>
-      <td>naufalalifian00@gmail.com</td>
+      <td>lukman.shodik99@gmail.com</td>
     </tr>
   </table>
 </div>
@@ -401,7 +366,7 @@ Buat akun pengguna melalui halaman Register, atau gunakan data yang sudah di-see
 <div align="center">
   <p>
     <strong>Sistem Informasi Perpustakaan</strong><br>
-    Dibangun dengan ❤️ menggunakan Laravel 13
+    Dibangun dengan ❤️ menggunakan Laravel 12
   </p>
   <p>
     <sub>© 2026 — All Rights Reserved</sub>
