@@ -1,8 +1,8 @@
 # Tugas Pemrograman Web Pertemuan 14
 
 ## Identitas
-- Nama: Muhammad Hamdi Yahya
-- NIM: 60324035
+- Nama: Naufal Setyabagas Alifian
+- NIM: 60324033
 - Kelas: B
 - Mata Kuliah: Pemrograman Web 2
 
