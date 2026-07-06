@@ -366,7 +366,7 @@ Buat akun pengguna melalui halaman Register, atau gunakan data yang sudah di-see
 <div align="center">
   <p>
     <strong>Sistem Informasi Perpustakaan</strong><br>
-    Dibangun dengan ❤️ menggunakan Laravel 12
+    Dibangun dengan  menggunakan Laravel 12
   </p>
   <p>
     <sub>© 2026 — All Rights Reserved</sub>
