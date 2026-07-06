@@ -122,7 +122,7 @@ Dibangun dengan antarmuka yang **modern, responsif, dan user-friendly** mengguna
 
 | Teknologi | Keterangan |
 |-----------|------------|
-| **Laravel 13** | Framework PHP modern dengan arsitektur MVC |
+| **Laravel 12** | Framework PHP modern dengan arsitektur MVC |
 | **PHP 8.3+** | Bahasa pemrograman backend |
 | **MySQL** | Database relasional |
 | **Eloquent ORM** | Database abstraction layer |
@@ -227,8 +227,8 @@ Pastikan sistem Anda telah terinstall:
 #### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/sistem-perpustakaan.git
-cd sistem-perpustakaan
+git clone https://github.com/Xyuzu05/Pemprograman_Web_Final.git
+cd Pemprograman_Web_Final
 ```
 
 Atau download dan extract file ZIP ke direktori web server (misal: `C:\xampp\htdocs\Pemweb\final`).
